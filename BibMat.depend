@@ -1,0 +1,95 @@
+# depslib dependency file v1.0
+1607449843 source:c:\users\user\documents\bibmat\main.cpp
+	<iostream>
+	<fstream>
+	<graphics.h>
+
+1609181533 source:c:\users\user\desktop\bibmat\main.cpp
+	<iostream>
+	<fstream>
+	<graphics.h>
+	<winbgim.h>
+	<stdlib.h>
+	<iomanip>
+	<dos.h>
+	<stdio.h>
+
+1610278446 source:c:\users\manub\desktop\bibmat_updated\main.cpp
+	"BibMat.h"
+
+1609851341 source:c:\users\user\desktop\bibmat_updatedv2\main.cpp
+	<iostream>
+	<fstream>
+	<graphics.h>
+	<winbgim.h>
+	<mmsystem.h>
+	<stdlib.h>
+	<iomanip>
+	<dos.h>
+	<stdio.h>
+
+1610278446 c:\users\manub\desktop\bibmat_updated\bibmat.h
+	"Libraries.h"
+
+1610278451 c:\users\manub\desktop\bibmat_updated\libraries.h
+	<iostream>
+	<fstream>
+	<graphics.h>
+	<winbgim.h>
+	<mmsystem.h>
+	<stdlib.h>
+	<iomanip>
+	<dos.h>
+	<stdio.h>
+
+1610278446 source:c:\users\user\desktop\bibmat_updated\main.cpp
+	"BibMat.h"
+
+1610391605 c:\users\user\desktop\bibmat_updated\bibmat.h
+	"Libraries.h"
+
+1610278451 c:\users\user\desktop\bibmat_updated\libraries.h
+	<iostream>
+	<fstream>
+	<graphics.h>
+	<winbgim.h>
+	<mmsystem.h>
+	<stdlib.h>
+	<iomanip>
+	<dos.h>
+	<stdio.h>
+
+1610420971 source:c:\users\manub\desktop\bibmat_final_george\main.cpp
+	"BibMat.h"
+
+1610422691 c:\users\manub\desktop\bibmat_final_george\bibmat.h
+	"Libraries.h"
+
+1610420971 c:\users\manub\desktop\bibmat_final_george\libraries.h
+	<iostream>
+	<fstream>
+	<graphics.h>
+	<winbgim.h>
+	<mmsystem.h>
+	<stdlib.h>
+	<iomanip>
+	<dos.h>
+	<stdio.h>
+
+1610420971 source:c:\users\manub\desktop\bibmat - berea manuela si george iosub\main.cpp
+	"BibMat.h"
+
+1610817433 c:\users\manub\desktop\bibmat - berea manuela si george iosub\bibmat.h
+	"Libraries.h"
+
+1610420971 c:\users\manub\desktop\bibmat - berea manuela si george iosub\libraries.h
+	<iostream>
+	<fstream>
+	<graphics.h>
+	<winbgim.h>
+	<mmsystem.h>
+	<stdlib.h>
+	<iomanip>
+	<dos.h>
+	<stdio.h>
+
